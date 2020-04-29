@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+
+  <head>
+    <title>SentiMovie</title>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" type="text/css">
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  </head>
+
+  <body >
+
+  <div class="container mt-2">
+  <h2>SentiMovie Project</h2>
+  <p>This project evaluate text for sentiment analysis.</p>
+  <form action = "http://localhost:5000/main" method = "POST">
+    <div class="form-group">
+      <label>Text</label>
+      <textarea type="text" name = "text" class="form-control" rows="6"></textarea>
+    </div>
+      <button type="submit" value="submit" class="btn btn-primary">Evaluate</button>
+  </form>
+      {% if result == 1 %}
+          <div class="alert alert-success mt-1">
+            <strong>Success!</strong> Indicates a positive review.
+         </div>
+      {% elif result == 0 %}
+        <div class="alert alert-danger mt-2">
+            <strong>Danger!</strong> Indicates a negative review.
+        </div>
+    {% endif %}
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+
+</html>
