@@ -1,0 +1,17 @@
+https://repl.it/ Python'u interpreter'a indirmeden python kodu yazmanızı sağlayan site
+https://docs.python.org/3/tutorial/index.html (Pythona başlarken takip edilebilir tutorial)
+https://www.youtube.com/watch?v=40Ip2UkpJDc&list=PLKnjBHu2xXNNiJdlhiEl_RMkK0PbJ1_DB (Algoritma öğrenirken takip edilebilecek playlist)
+https://www.youtube.com/watch?v=R75Oo--O5Q4&list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR Python çalışırken takip edilebilir video serisi
+https://www.yazilimbilisim.net/algoritma/algoritma-ve-akis-diyagrami-ornekleri/ Algoritma örnekleri
+https://stackoverflow.com/ : Problem aldığınızda bu site üzerinden çözümünü arayabilirsiniz.
+https://www.linkedin.com/ : Network ve iş başvuruları için takip edilebilir sosyal medya ortamı
+https://github.com/ Yazılım projelerinde kullanılan versiyon kontrol sistemi(Kendi projelerinizi yükleyebileceğiniz ve diğer insanlara sunabileceğiniz ekstra olarak community ile ortak proje geliştirebileceğiniz web uygulaması)
+https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g Bilgisayar kavramları youtube kanalı linki bilgisayar bilimi hakkında çeşitli videolar bulabilirsiniz.
+https://www.edx.org/ Ücretsiz bir çok konuda eğitim bulabileceğiniz platform
+https://docs.python-guide.org/ : Python çalışırken kullanılabilecek 
+https://projecteuler.net/ : Algoritma örnekleri bulunan uygulama
+https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari : Türkçe Yapay Zeka kaynakları
+https://www.youtube.com/user/YazilimHerYerde : Murat Yücedağ Youtube kanalı
+https://www.w3schools.com/ : Yazılım teknolojileri üzerine tutoriallar içeren web uygulaması
+https://www.freecodecamp.org/ : Yazılım teknolojileri üzerine eğitimler içeren web uygulaması
+https://www.hackerrank.com/ : Algoritma soruları içeren web uygulaması.

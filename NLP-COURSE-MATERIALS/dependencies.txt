@@ -1,0 +1,21 @@
+1 : conda install -c anaconda nltk 
+2 : conda install -c conda-forge pypdf2
+3 : conda install -c conda-forge pyspark
+4 : conda install -c conda-forge rdflib
+5 : conda install -c conda-forge spacy
+6 : python -m spacy download en
+7 : conda install -c anaconda scikit-learn
+8 : pip install TurkishStemmer
+9 : conda install -c conda-forge matplotlib
+10: conda install -c conda-forge wordcloud
+11: conda install -c conda-forge gensim
+12: conda install -c anaconda beautifulsoup4 
+13: conda install -c anaconda seaborn
+
+Check Dependencies : conda list
+
+Conda Virtual Environment : https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+
+
+
